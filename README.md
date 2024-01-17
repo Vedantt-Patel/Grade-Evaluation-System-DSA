@@ -1,2 +1,2 @@
 # Grade-Evaluation-System-DSA
-Forged a Grade Wizard in C++ and DSA magic! Merging tech and academia seamlessly, I wielded programming prowess to craft a sleek, user-friendly evaluation charm. A testament to my commitment to academic excellence and innovation in the software realm. 🚀🎓✨
+Engineered a Grade Evaluation System proficiently using C++ and DSA concepts. Demonstrated a keen fusion of technology and academic assessment, showcasing expertise in developing robust, efficient, and user-friendly tools. This project reflects my commitment to maintaining high academic standards and employing innovative problem-solving in software development.
